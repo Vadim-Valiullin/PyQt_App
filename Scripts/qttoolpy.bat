@@ -1,0 +1,1 @@
+pyuic5.exe -x C:\Users\right\PycharmProjects\pythonTestSNEMA\design.ui -o C:\Users\right\PycharmProjects\pythonTestSNEMA\design.py
