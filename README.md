@@ -6,7 +6,7 @@
 
 ## About The Project
 
-![Screen Shot](https://disk.yandex.ru/i/9QjzGQejAJst6Q)
+![Screen Shot](https://disk.yandex.ru/i/HSc97lbJOJ8vgQ)
 
 Приложение изначально собиралось в QT Designer.
 
